@@ -1,3 +1,9 @@
+> [!WARNING]
+> HeidiSQL now has a native Linux version.  
+> This repository may no longer be needed for Linux users.
+
+---
+
 <h1 align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" alt="HeidiSQL" width="400">
   <br />
@@ -21,8 +27,6 @@
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
 ![heidisql](screenshot.png "HeidiSQL")
-
-<p align="center">Published for <img src="http://anything.codes/slack-emoji-for-techies/emoji/tux.png" align="top" width="24" /> with :gift_heart:</p>
 
 <!-- 
 ## The Snapcrafters
